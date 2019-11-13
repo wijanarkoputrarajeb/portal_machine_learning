@@ -1,0 +1,9 @@
+flask 
+opencv-python 
+pillow 
+gunicorn 
+Jinja2 
+h5py 
+itsdangerous 
+MarkupSafe 
+Werkzeug
